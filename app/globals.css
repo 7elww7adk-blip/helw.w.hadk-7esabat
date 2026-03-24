@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+body { @apply bg-slate-50 text-slate-900; }
+.card { @apply bg-white rounded-2xl shadow-sm border border-slate-200; }
+.input { @apply h-10 rounded-xl border border-slate-300 px-3 w-full; }
+.btn { @apply inline-flex items-center justify-center px-4 h-10 rounded-xl text-sm font-medium; }
+.btn-primary { @apply btn bg-blue-600 text-white hover:bg-blue-700; }
+.badge { @apply inline-flex px-2 py-1 rounded-full text-xs font-medium bg-slate-100; }

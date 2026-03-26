@@ -1,0 +1,2 @@
+id,date,branchId,agentId,tripId,expectedAmount,returnedAmount,shortageOverage,agentDue,notes,createdBy,createdAt
+ds_1,2026-03-25,br_main,ag_1,trip_1,1600,1580,-20,120,تم خصم 20,usr_acc,2026-03-25T20:15:00Z

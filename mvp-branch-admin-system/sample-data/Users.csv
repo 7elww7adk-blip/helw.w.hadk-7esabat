@@ -1,0 +1,5 @@
+id,fullName,username,passwordHash,role,allowedBranchIds,isActive,createdAt,updatedAt
+usr_owner,صاحب المحل,owner,REPLACE_WITH_HASH,OWNER,"br_main,br_new",TRUE,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z
+usr_manager,مدير الفرع,manager_main,REPLACE_WITH_HASH,BRANCH_MANAGER,br_main,TRUE,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z
+usr_acc,المحاسب,accountant,REPLACE_WITH_HASH,ACCOUNTANT,"br_main,br_new",TRUE,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z
+usr_view,مشاهد,viewer,REPLACE_WITH_HASH,VIEWER,"br_main,br_new",TRUE,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z

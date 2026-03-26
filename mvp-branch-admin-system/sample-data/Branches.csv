@@ -1,0 +1,3 @@
+id,name,code,address,phone,isActive,openingCapital,createdAt,updatedAt
+br_main,الفرع الأساسي,MAIN,المدينة الرئيسية,01000000000,TRUE,100000,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z
+br_new,الفرع الجديد,NEW,الحي الجديد,01000000001,TRUE,50000,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z

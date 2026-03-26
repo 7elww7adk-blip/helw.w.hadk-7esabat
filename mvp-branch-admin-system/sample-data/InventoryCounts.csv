@@ -1,0 +1,2 @@
+id,date,branchId,openingCountValue,currentCountValue,expectedCountValue,varianceValue,notes,createdBy,createdAt
+inv_1,2026-03-25,br_main,30000,29500,29800,-300,فرق جرد محدود,usr_acc,2026-03-25T21:00:00Z

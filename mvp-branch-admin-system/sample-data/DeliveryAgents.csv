@@ -1,0 +1,3 @@
+id,fullName,phone,defaultBranchId,isActive,createdAt,updatedAt
+ag_1,أحمد مندوب,01011111111,br_main,TRUE,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z
+ag_2,محمد مندوب,01022222222,br_new,TRUE,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z

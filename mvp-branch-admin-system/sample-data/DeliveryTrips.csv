@@ -1,0 +1,2 @@
+id,date,branchId,agentId,ordersCount,expectedCollect,actualCollect,shortageOverage,deliveredCount,returnedCount,postponedCount,cancelledCount,notes,createdBy,createdAt
+trip_1,2026-03-25,br_main,ag_1,8,1600,1580,-20,6,1,1,0,عجز بسيط,usr_acc,2026-03-25T20:00:00Z

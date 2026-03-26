@@ -1,0 +1,4 @@
+window.APP_CONFIG = {
+  API_BASE_URL: 'PASTE_YOUR_APPS_SCRIPT_WEBAPP_URL_HERE',
+  APP_NAME: 'نظام إدارة الفروع'
+};
